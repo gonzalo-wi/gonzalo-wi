@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2EC4B6&size=25&center=true&vCenter=true&width=600&height=100&duration=6000&lines=Desarrollador+Backend+%7C+Fullstack;Automatizador+de+Procesos+con+Python+%26+Go;Integraciones+con+APIs+%7C+Dashboard+Lover;Buscando+seguir+creciendo+y+aprender+m%C3%A1s">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2EC4B6&size=25&center=true&vCenter=true&width=600&height=100&duration=6000&lines=Desarrollador+Backend+%7C+Fullstack;Automatizador+de+Procesos+con+Python+%26+Go ;Integraciones+con+APIs+%7C+Dashboard+Lover ;Buscando+seguir+creciendo+y+aprender+m%C3%A1s">
   </a>
 </p>
 
@@ -17,9 +17,8 @@
 </p>
 
 - 🔧 Automatizo tareas con Python, Go y SQL
-- 📊 Hago dashboards en Vue + Chart.js y Glide
+- 📊 Hago Frontend con vue + Js + TaildwindCSS
 - 🧠 Me interesa la ciberseguridad y el desarrollo eficiente
-- 💼 Proyectos reales: sincronización de datos, CRM, call center
 - 🚀 Aprendiendo Kotlin y Flutter
 
 <br>
@@ -62,9 +61,9 @@
 
 ## 🤝 Contacto
 
-- 📧 Email: gonzalo.tuemail@gmail.com
-- 🌐 [Portafolio](https://tusitioweb.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
+- 📧 Email: gonzalo.winazki@gmail.com
+- 🌐 [Portafolio](https://gwinazki.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gonzalowiñazk)
 
 <br>
 
