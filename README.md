@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2EC4B6&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Backend+%7C+Fullstack;Automatizador+de+Procesos+con+Python+%26+Go;Integraciones+con+APIs+%7C+Dashboard+Lover;Buscando+seguir+creciendo+y+aprender+m%C3%A1s">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2EC4B6&size=25&center=true&vCenter=true&width=600&height=100&duration=6000&lines=Desarrollador+Backend+%7C+Fullstack;Automatizador+de+Procesos+con+Python+%26+Go;Integraciones+con+APIs+%7C+Dashboard+Lover;Buscando+seguir+creciendo+y+aprender+m%C3%A1s">
   </a>
 </p>
 
@@ -12,13 +12,15 @@
 
 <p align="left">
   <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
-  Soy un desarrollador full stack apasionado por automatizar procesos, crear dashboards claros para la toma de decisiones y optimizar flujos de trabajo.
+  Soy un desarrollador backend apasionado por automatizar procesos, crear dashboards claros para la toma de decisiones y optimizar flujos de trabajo.
   Trabajo en Ivess y también como freelancer.
 </p>
 
-- 🔧 Automatizo tareas con Python, java, Go y SQL
-- 📊 Hago front con vue + Js + TailwindCSS
+- 🔧 Automatizo tareas con Python, Go y SQL
+- 📊 Hago dashboards en Vue + Chart.js y Glide
 - 🧠 Me interesa la ciberseguridad y el desarrollo eficiente
+- 💼 Proyectos reales: sincronización de datos, CRM, call center
+- 🚀 Aprendiendo Kotlin y Flutter
 
 <br>
 
@@ -30,9 +32,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend:
+### Frameworks & Frontend:
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Backend & DB:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -57,12 +62,14 @@
 
 ## 🤝 Contacto
 
-- 📧 Email: gonzalo.winazki@gmail.com
-- 🌐 [Portafolio](https://gwinazki.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gonzalowiñazki)
+- 📧 Email: gonzalo.tuemail@gmail.com
+- 🌐 [Portafolio](https://tusitioweb.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
 
-<br><br>
+<br>
 
 <div align="center">
   <b>Gracias por visitar mi perfil 🙌</b>
 </div>
+
+<!-- Tiempo de visualización de alertas extendido a 1.5s si aplica en dashboard de Vue -->
