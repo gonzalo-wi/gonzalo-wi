@@ -1,75 +1,104 @@
-<h1 align="center"><b>Hola, soy Gonzalo Wiñazki</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<h1 align="center">🚀 Gonzalo Wiñazki</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2EC4B6&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Backend+%7C+Fullstack;Buscando+seguir+creciendo+y+aprender+m%C3%A1s">
-  </a>
+Backend Engineer | Go • Python • Java | Automatización • Sistemas Distribuidos
 </p>
 
-<br>
+---
 
-## 🧑‍💻 Sobre mí
+## 🧠 Sobre mí
 
-<p align="left">
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
-  Soy un desarrollador backend apasionado por automatizar procesos, crear dashboards claros para la toma de decisiones y optimizar flujos de trabajo.
-  Trabajo en Ivess y también como freelancer.
-</p>
+Soy desarrollador backend enfocado en construir sistemas que optimizan procesos reales de negocio.
 
-- 🔧 Automatizo tareas con Python, Go y SQL
-- 📊 Hago Frontend con vue + Js + TaildwindCSS
-- 🧠 Me interesa la ciberseguridad y el desarrollo eficiente
-- 🚀 Aprendiendo Kotlin y Flutter
+Actualmente trabajo en Ivess, donde desarrollo soluciones que automatizan operaciones logísticas, reducen tiempos operativos y mejoran la toma de decisiones.
 
-<br>
+Me interesa el diseño de sistemas escalables, arquitectura backend y procesamiento eficiente de datos.
 
-## 🚀 Habilidades Técnicas
+---
 
-### Lenguajes:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 💥 Impacto real (lo más importante)
 
-### Frontend:
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🔹 Automatización de autocierre de repartos
+- Integración entre cajeros (XML) y sistema interno (JSON)
+- Comparación automática de depósitos esperados vs reales
+- Ejecución automática de cierre de repartos
 
+📉 Resultado:
+- Proceso de horas → minutos  
+- De 3 personas → 1 persona  
+- Reducción de errores manuales  
 
-### Backend & DB:
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+---
 
-### DevOps y herramientas:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🔹 Sistema de cambio masivo de precios
+- Backend en Java + frontend en Vue
+- Entorno de prueba contra base réplica antes de producción
 
-<br>
+📉 Resultado:
+- Proceso nocturno de 5 horas → 10 minutos  
 
-## 📈 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonzalo-wi&show_icons=true&theme=radical" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalo-wi&layout=compact&theme=radical" width="375">
-</p>
+---
 
-<br>
+### 🔹 Plataforma de call center (Go + Vue)
+- Reasignación inteligente de visitas por geolocalización
+- Integración con APIs externas
+- Automatización de envíos por WhatsApp vía CSV
+
+---
+
+### 🔹 App mobile para promotores (Kotlin)
+- Alta de clientes con geolocalización
+- Tracking en tiempo real (Firebase)
+- Dashboard de métricas comerciales
+
+---
+
+## ⚙️ Stack tecnológico
+
+### Backend
+- Go (Gin, GORM)
+- Python (FastAPI, Django)
+- Java (Spring Boot)
+
+### Frontend
+- Vue.js
+- TailwindCSS
+
+### Bases de datos
+- SQL Server
+- PostgreSQL
+- MySQL
+
+### Infraestructura
+- Docker
+- Linux
+- APIs REST / SOAP
+- Arquitectura orientada a eventos (RabbitMQ, Kafka)
+
+---
+
+## 📈 En qué estoy enfocado
+
+- Diseño de sistemas escalables
+- Arquitectura backend (Clean Architecture, Hexagonal)
+- Concurrencia y performance en Go
+- Event-driven systems
+
+---
+
+## 🎯 Objetivo
+
+Crecer hacia roles de Software Engineer senior / Software Architect, trabajando en sistemas de alto tráfico y gran escala.
+
+---
 
 ## 🤝 Contacto
 
-- 📧 Email: gonzalo.winazki@gmail.com
-- 🌐 [Portafolio](https://gwinazki.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gonzalowiñazk)
+- 📧 gonzalo.winazki@gmail.com
+- 🌐 https://gwinazki.com
+- 💼 https://www.linkedin.com/in/gonzalowiñazk
 
-<br>
+---
 
-<div align="center">
-  <b>Gracias por visitar mi perfil 🙌</b>
-</div>
-
-<!-- Tiempo de visualización de alertas extendido a 1.5s si aplica en dashboard de Vue -->
+<p align="center">
+🔥 "Construyo sistemas que reemplazan procesos manuales"
+</p>
