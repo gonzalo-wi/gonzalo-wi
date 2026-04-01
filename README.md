@@ -1,58 +1,21 @@
 <h1 align="center">🚀 Gonzalo Wiñazki</h1>
+
 <p align="center">
-Backend Engineer | Go • Python • Java | Automatización • Sistemas Distribuidos
+Backend Engineer | Go • Python • Java  
+Systems • APIs • Distributed Architecture
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 About
 
-Soy desarrollador backend enfocado en construir sistemas que optimizan procesos reales de negocio.
+Backend developer focused on building scalable systems, APIs and automation solutions.
 
-Actualmente trabajo en Ivess, donde desarrollo soluciones que automatizan operaciones logísticas, reducen tiempos operativos y mejoran la toma de decisiones.
-
-Me interesa el diseño de sistemas escalables, arquitectura backend y procesamiento eficiente de datos.
+I enjoy designing clean architectures, solving real-world problems through software, and improving performance and reliability in distributed environments.
 
 ---
 
-## 💥 Impacto real (lo más importante)
-
-### 🔹 Automatización de autocierre de repartos
-- Integración entre cajeros (XML) y sistema interno (JSON)
-- Comparación automática de depósitos esperados vs reales
-- Ejecución automática de cierre de repartos
-
-📉 Resultado:
-- Proceso de horas → minutos  
-- De 3 personas → 1 persona  
-- Reducción de errores manuales  
-
----
-
-### 🔹 Sistema de cambio masivo de precios
-- Backend en Java + frontend en Vue
-- Entorno de prueba contra base réplica antes de producción
-
-📉 Resultado:
-- Proceso nocturno de 5 horas → 10 minutos  
-
----
-
-### 🔹 Plataforma de call center (Go + Vue)
-- Reasignación inteligente de visitas por geolocalización
-- Integración con APIs externas
-- Automatización de envíos por WhatsApp vía CSV
-
----
-
-### 🔹 App mobile para promotores (Kotlin)
-- Alta de clientes con geolocalización
-- Tracking en tiempo real (Firebase)
-- Dashboard de métricas comerciales
-
----
-
-## ⚙️ Stack tecnológico
+## ⚙️ Tech Stack
 
 ### Backend
 - Go (Gin, GORM)
@@ -63,42 +26,51 @@ Me interesa el diseño de sistemas escalables, arquitectura backend y procesamie
 - Vue.js
 - TailwindCSS
 
-### Bases de datos
-- SQL Server
+### Databases
 - PostgreSQL
+- SQL Server
 - MySQL
 
-### Infraestructura
+### Infrastructure & Tools
 - Docker
 - Linux
-- APIs REST / SOAP
-- Arquitectura orientada a eventos (RabbitMQ, Kafka)
+- REST / SOAP APIs
+- Event-driven systems (RabbitMQ, Kafka)
 
 ---
 
-## 📈 En qué estoy enfocado
+## 🚀 What I Work On
 
-- Diseño de sistemas escalables
-- Arquitectura backend (Clean Architecture, Hexagonal)
-- Concurrencia y performance en Go
-- Event-driven systems
-
----
-
-## 🎯 Objetivo
-
-Crecer hacia roles de Software Engineer senior / Software Architect, trabajando en sistemas de alto tráfico y gran escala.
+- Backend system design and architecture  
+- High-performance APIs  
+- Automation of business processes  
+- Data processing and integrations  
+- Distributed systems  
 
 ---
 
-## 🤝 Contacto
+## 📚 Currently Learning
 
-- 📧 gonzalo.winazki@gmail.com
-- 🌐 https://gwinazki.com
-- 💼 https://www.linkedin.com/in/gonzalowiñazk
+- Advanced concurrency in Go  
+- System design at scale  
+- Event-driven architectures  
+
+---
+
+## 🎯 Goal
+
+To grow as a Backend Engineer and evolve towards Software Architect roles, working on high-scale systems.
+
+---
+
+## 🤝 Contact
+
+- 📧 gonzalo.winazki@gmail.com  
+- 🌐 https://gwinazki.com  
+- 💼 https://www.linkedin.com/in/gonzalowiñazki  
 
 ---
 
 <p align="center">
-🔥 "Construyo sistemas que reemplazan procesos manuales"
+⚡ Building efficient systems, not just code
 </p>
